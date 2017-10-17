@@ -7,6 +7,7 @@
 
 每次实验课、练习赛的助教版解题报告将会在这里发布。同学们如果有优秀的解题报告想要发布，可以直接发起pull request，也可以联系助教。
 
+[网页版解题报告点这里](https://modricwang.github.io/BUAA-Soft-Algo-2016/)
 
 ~~同学们，watch以后记得star啊~~
 
